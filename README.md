@@ -1,2 +1,3 @@
 # Time-Series-Forecasting-Projects
-These Repo contains all my projects Where I attempted to implement all the necessary skills to learn Time series forecasting using Kaggle's course, Udaticy, Midium and Analytics Vidhya's articles...
+This project considered as an essential part for any data scientist, or machine learning engineer, especially who works with time (trading, stocks, weather forcasting..)
+I - during this project We will cover many concepts (learning project), ARRIMA and or Derrivative Algorithms which and when algorithms We have to choose, reading the predicted results, evaluating and optimizing the module  
